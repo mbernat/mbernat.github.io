@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Little bits</title>
-    <link>http://example.org/</link>
+    <link>http://mbernat.com/</link>
     <description>Recent content on Little bits</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 May 2019 12:03:58 +0200</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://mbernat.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bear with me</title>
-      <link>http://example.org/posts/bear-with-me/</link>
+      <link>http://mbernat.com/posts/bear-with-me/</link>
       <pubDate>Mon, 20 May 2019 12:03:58 +0200</pubDate>
       
-      <guid>http://example.org/posts/bear-with-me/</guid>
-      <description>Language is a fascinating organism. It might seems rigid, especially after consulting a grammar book or a dictionary, but over millenia it mutates and adapts, both randomly and through the need to describe new objects.
+      <guid>http://mbernat.com/posts/bear-with-me/</guid>
+      <description>Language is a fascinating organism. It might seem rigid, especially after consulting a grammar book or a dictionary, but over millenia it mutates and adapts, both randomly and through the need to describe new objects.
 Today, we&amp;rsquo;ll talk bears.
 Going back Where do they come from? My standard approach is to consult the wiktionary, which tells us the word comes from Proto-Germanic *berô, an ancestor also to beer (Dutch), Bär (German) and bjørn (Danish).</description>
     </item>

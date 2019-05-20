@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Little bits</title>
-    <link>http://example.org/tags/</link>
+    <link>http://mbernat.com/tags/</link>
     <description>Recent content in Tags on Little bits</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://mbernat.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
