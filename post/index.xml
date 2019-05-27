@@ -2,24 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Little bits</title>
-    <link>http://mbernat.com/post/</link>
+    <link>https://mbernat.com/post/</link>
     <description>Recent content in Posts on Little bits</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Marek Bernat</copyright>
-    <lastBuildDate>Mon, 20 May 2019 12:03:58 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2019 17:02:07 +0200</lastBuildDate>
     
-	<atom:link href="http://mbernat.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mbernat.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Medium rare</title>
+      <link>https://mbernat.com/post/medium-rare/</link>
+      <pubDate>Mon, 27 May 2019 17:02:07 +0200</pubDate>
+      
+      <guid>https://mbernat.com/post/medium-rare/</guid>
+      <description>When you&amp;rsquo;re trying to fall asleep it&amp;rsquo;s usually a terrible idea to start thinking about interesting problems. But I might get a blog post out of it, so it&amp;rsquo;s all good.
+It all began with media.
+
+ We rarely notice them but they are absolutely fundamental to everything we do. This sentence originated in the medium of neural excitations, was subsequently converted to the medium of text, and, after having crossed too many other media to mention, is being reassembled in your brain now.</description>
+    </item>
+    
+    <item>
       <title>Bear with me</title>
-      <link>http://mbernat.com/post/bear-with-me/</link>
+      <link>https://mbernat.com/post/bear-with-me/</link>
       <pubDate>Mon, 20 May 2019 12:03:58 +0200</pubDate>
       
-      <guid>http://mbernat.com/post/bear-with-me/</guid>
+      <guid>https://mbernat.com/post/bear-with-me/</guid>
       <description>Language is a fascinating organism. It might seem rigid, especially after consulting a grammar book or a dictionary, but over millenia it mutates and adapts, both randomly and through the need to describe new objects.
 Today, we&amp;rsquo;ll talk bears.
 Going back Where do they come from? My standard approach is to consult the wiktionary, which tells us the word comes from Proto-Germanic *berô, an ancestor also to beer (Dutch), Bär (German) and bjørn (Danish).</description>
+    </item>
+    
+    <item>
+      <title>The science of religion</title>
+      <link>https://mbernat.com/post/the-science-of-religion/</link>
+      <pubDate>Mon, 03 Dec 2018 22:00:58 +0100</pubDate>
+      
+      <guid>https://mbernat.com/post/the-science-of-religion/</guid>
+      <description>Science and religion seem irreconcilable on their face: one requires evidence, the other faith. But this is an extremely superficial view and everyone would benefit if we could bring these worlds closer together.
+That being said, as a faithless creature I can only provide one side of the picture, approaching religion from a scientific vantage.
+Why religion exists I can&amp;rsquo;t possibly enumerate all of the reasons but I can suggest why religion seems to be such a universal feature of human civilizations.</description>
+    </item>
+    
+    <item>
+      <title>The computation of our lives</title>
+      <link>https://mbernat.com/post/the-computation-of-our-lives/</link>
+      <pubDate>Sat, 01 Dec 2018 22:09:58 +0100</pubDate>
+      
+      <guid>https://mbernat.com/post/the-computation-of-our-lives/</guid>
+      <description>The salient feature of computers is that they manipulate physical information. Both you scribbling on a piece of paper when doing simple calculations and your computer modifying its memory by means of electrical signals are essentially doing the same thing.
+It might at first appear that computation requires humans, their brains or their inventions, but it actually precedes us by quite a while.
+The first computer Any computation, however it is realized in the physical world, needs a medium to store the intermediate results and a means for manipulating that medium.</description>
+    </item>
+    
+    <item>
+      <title>The big picture</title>
+      <link>https://mbernat.com/post/big-picture/</link>
+      <pubDate>Thu, 30 Aug 2018 16:14:58 +0200</pubDate>
+      
+      <guid>https://mbernat.com/post/big-picture/</guid>
+      <description>It&amp;rsquo;s Monday 5pm. You&amp;rsquo;re on your way home after an exhausting day at work that included a fight with your boss. Now you&amp;rsquo;re stuck in traffic. The news on the radio cheerfully announces hundreds of dead in a coalmine accident. And you can look forward to finishing the argument with your wife. You need to get a grip.
+Zoom out Think about your neighborhood. You might or might not know anyone but you should remember its layout, the trees, the flowers, maybe some familiar faces.</description>
+    </item>
+    
+    <item>
+      <title>Intelligence as a purpose</title>
+      <link>https://mbernat.com/post/intelligence-as-a-purpose/</link>
+      <pubDate>Wed, 29 Aug 2018 12:03:58 +0200</pubDate>
+      
+      <guid>https://mbernat.com/post/intelligence-as-a-purpose/</guid>
+      <description>We alone are strange Intelligence is the most incredible ability that I know of. All other traits provide a particular advantage that will become obsolete sooner or later. For billions of years for a species to survive its gene pool had to be constantly updated to match the ever-changing environment. And whether the species succeeded or not had essentially been due to chance&amp;mdash;indeed, most species have already gone extinct since there was no way for them to predict massive transitions in the environment and adapt quickly enough.</description>
+    </item>
+    
+    <item>
+      <title>Merits of religion</title>
+      <link>https://mbernat.com/post/merits-of-religion/</link>
+      <pubDate>Mon, 29 Jan 2018 00:53:58 +0100</pubDate>
+      
+      <guid>https://mbernat.com/post/merits-of-religion/</guid>
+      <description>I used to be a rather vehement atheist. I just could not comprehend why anyone would prefer vague, contradictory, and obsolete belief systems to the beauty of science and logic, which are clearly the superior tools for learning about the world and organizing the knowledge. While I think no less of science, I&amp;rsquo;m beginning to see the value of art and religion when grappling with the human condition.
+I started to be particularly interested in less rational approaches when it dawned on me that logic brings me no closer to understanding others or&amp;mdash;and this was a shock&amp;mdash;even myself.</description>
     </item>
     
   </channel>

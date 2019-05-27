@@ -3,34 +3,64 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://mbernat.com/about/</loc>
+    <loc>https://mbernat.com/</loc>
+    <lastmod>2019-05-27T17:02:07+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mbernat.com/post/medium-rare/</loc>
+    <lastmod>2019-05-27T17:02:07+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mbernat.com/post/</loc>
+    <lastmod>2019-05-27T17:02:07+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mbernat.com/about/</loc>
     <lastmod>2019-05-20T20:38:55+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://mbernat.com/</loc>
-    <lastmod>2019-05-20T20:38:55+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://mbernat.com/post/bear-with-me/</loc>
+    <loc>https://mbernat.com/post/bear-with-me/</loc>
     <lastmod>2019-05-20T12:03:58+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://mbernat.com/post/</loc>
-    <lastmod>2019-05-20T12:03:58+02:00</lastmod>
+    <loc>https://mbernat.com/post/the-science-of-religion/</loc>
+    <lastmod>2018-12-03T22:00:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mbernat.com/post/the-computation-of-our-lives/</loc>
+    <lastmod>2018-12-01T22:09:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mbernat.com/post/big-picture/</loc>
+    <lastmod>2018-08-30T16:14:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mbernat.com/post/intelligence-as-a-purpose/</loc>
+    <lastmod>2018-08-29T12:03:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mbernat.com/post/merits-of-religion/</loc>
+    <lastmod>2018-01-29T00:53:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mbernat.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mbernat.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://mbernat.com/tags/</loc>
+    <loc>https://mbernat.com/tags/</loc>
     <priority>0</priority>
   </url>
   
